@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Dashboard ✨
 
 ## Setup Environment - Anaconda
 ```
