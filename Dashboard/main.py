@@ -38,7 +38,7 @@ def create_byage_df(df):
 
 
 # Load cleaned data
-all_df = pd.read_csv("mainDashboard/main.csv.csv")
+all_df = pd.read_csv("Data/day.csv")
 
 
 
