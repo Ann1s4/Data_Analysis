@@ -2,4 +2,4 @@ pandas
 matplotlib
 seaborn
 streamlit
-format_currency
+babel
